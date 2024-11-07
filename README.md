@@ -1,1 +1,1 @@
-# CourseraAssignmeny
+# CourseraAssignment
